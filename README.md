@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub metrics](https://metrics.lecoq.io/cressidagp)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cressidagp)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cressidagp&theme=dark)
