@@ -1,9 +1,10 @@
-### 👋 Hi, I’m @cressidagp
+### Hi 👋, I’m @cressidagp
 
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on arcemu
-- 📫 How to reach me ...
+- 📫 How to reach me cressidagp@gmail.com
+
 
 <!---
 cressidagp/cressidagp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
