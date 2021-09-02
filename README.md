@@ -1,8 +1,9 @@
 ### Hi 👋, I’m @cressidagp
 
-- 👀 I’m interested GM and AS.
+- 👀 I’m interested GM and AS
 - 🌱 I’m currently learning C++ 
 - 📫 How to reach me cressidagp@gmail.com
+- 😄 Pronouns: He with no life
 
 
 <!---
