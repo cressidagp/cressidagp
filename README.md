@@ -1,7 +1,7 @@
 ### Greetings! 👋, I’m @cressidagp
 
-- 👀 I’m interested in GM and AS
-- 🌱 I’m currently learning C++ 
+- 👀 I’m interested in GM, AS and ArcEmu
+- 🌱 I’m currently Studying Software Engineering 
 - 📫 How to reach me: cressidagp@gmail.com
 - 😄 Pronouns: He with no life
 
